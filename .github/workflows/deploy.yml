@@ -16,5 +16,5 @@ jobs:
       - name: Install Dependencies 
         run: npm install 
  
-     - name: Build Check 
-       run: echo "Build successful"
+      - name: Build Check 
+        run: echo "Build successful"
